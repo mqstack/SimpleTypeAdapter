@@ -1,4 +1,4 @@
-package org.mqstack.simpletypeadapter;
+package org.mqstack.adapter;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.mqstack.simpletypeadapter", appContext.getPackageName());
+        assertEquals("org.mqstack.adapter.test", appContext.getPackageName());
     }
 }

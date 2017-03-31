@@ -1,4 +1,4 @@
-package org.mqstack.simpletypeadapter;
+package org.mqstack.adapter;
 
 import org.junit.Test;
 

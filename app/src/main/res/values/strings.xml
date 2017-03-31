@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">SimpleTypeAdapter</string>
+    <string name="app_name">SimpleAlbum</string>
+    <string name="album_today">Today</string>
+    <string name="album_yesterday">Yesterday</string>
+    <string name="no_permission_tip">No read external storage permission</string>
 </resources>
